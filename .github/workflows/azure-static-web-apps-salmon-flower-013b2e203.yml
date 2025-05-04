@@ -47,6 +47,7 @@ jobs:
           ###### End of Repository/Build Configurations ######
         env:
           HUGO_VERSION: 0.147.1
+          RUN_BUILD_COMMAND: hugo build --gc --minify --destination public --baseURL http://blog.devsectim.pro/
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
