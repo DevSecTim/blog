@@ -44,7 +44,7 @@ jobs:
           api_location: "" # Api source code path - optional
           output_location: "public" # Built app content directory - optional
           github_id_token: ${{ steps.idtoken.outputs.result }}
-          app_build_command: "hugo build --gc --minify --destination public --baseURL http://blog.devsectim.pro/"
+          app_build_command: "hugo --gc --minify --destination public --baseURL http://blog.devsectim.pro/"
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
