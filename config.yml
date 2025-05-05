@@ -52,7 +52,7 @@ params:
   author: Tim Jones
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -88,6 +88,6 @@ params:
       url: "https://ko-fi.com/devsectim"
 
   editPost:
-    URL: "https://github.com/devsectim/blog/content"
+    URL: "https://github.com/devsectim/blog/tree/main/content/writings"
     Text: "Suggest Changes"
     appendFilePath: true
