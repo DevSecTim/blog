@@ -1,5 +1,7 @@
-+++
-date = '2025-05-04T23:03:28+01:00'
-draft = true
-title = 'First Post'
-+++
+---
+draft: false
+title: Placeholder Post
+description: Hey
+---
+
+This is a placeholder, some interesting things will appear soon.

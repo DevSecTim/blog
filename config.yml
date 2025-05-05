@@ -1,0 +1,86 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "http://blog.devsectim.pro"
+title: DevSecTim.pro
+copyright: "© [Tim Jones](mailto:me@devsectim.pro)"
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts/
+          weight: 2
+        - name: Search
+          url: search
+          weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  author: Tim Jones
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+
+  profileMode:
+    enabled: true
+    title: Tim Jones PhD
+    subTitle: "Always Curious"
+    imageUrl: "profile-cover.png"
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Posts
+        url: posts
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/DevSecTim"
+    - name: LinkedIn
+      title: Join discord community
+      url: "https://www.linkedin.com/in/devsectim"
+    - name: KoFi
+      title: Buy me a Ko-Fi :)
+      url: "https://ko-fi.com/devsectim"
