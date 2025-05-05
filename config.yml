@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "http://blog.devsectim.pro"
+baseURL: "http://devsectim.pro"
 title: DevSecTim.pro
 copyright: "© [Tim Jones](mailto:me@devsectim.pro)"
 theme: "PaperMod"
@@ -12,7 +12,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts"]
+mainsections: ["writings", "profile", "search"]
 
 minify:
   disableXML: true
@@ -32,9 +32,12 @@ languages:
       series: series
     menu:
       main:
-        - name: Posts
-          url: posts/
+        - name: Writings
+          url: writings/
           weight: 2
+        - name: Profile
+          url: profile/
+          weight: 3
         - name: Search
           url: search
           weight: 10
@@ -43,11 +46,10 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON
+    - JSON # necessary for the search page
 
 params:
   author: Tim Jones
-
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
@@ -55,7 +57,7 @@ params:
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
@@ -65,22 +67,27 @@ params:
 
   profileMode:
     enabled: true
-    title: Tim Jones PhD
+    title: Tim Jones
     subTitle: "Always Curious"
     imageUrl: "profile-cover.png"
-    # imageWidth: 120
-    # imageHeight: 120
+    imageWidth: 120
+    imageHeight: 120
     buttons:
-      - name: Posts
-        url: posts
+      - name: Writings
+        url: writings
 
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/DevSecTim"
+      url: "https://github.com/devsectim"
     - name: LinkedIn
       title: Join discord community
       url: "https://www.linkedin.com/in/devsectim"
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/devsectim"
+
+  editPost:
+    URL: "https://github.com/devsectim/blog/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
