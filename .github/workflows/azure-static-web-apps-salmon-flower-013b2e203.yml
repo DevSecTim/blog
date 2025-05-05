@@ -47,6 +47,8 @@ jobs:
           github_id_token: ${{ steps.idtoken.outputs.result }}
           app_build_command: "hugo --gc --minify --destination public --baseURL http://blog.devsectim.pro/"
           ###### End of Repository/Build Configurations ######
+        env:
+          HUGO_VERSION: 0.147.1
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
