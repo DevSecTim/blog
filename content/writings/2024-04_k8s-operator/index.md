@@ -6,8 +6,6 @@ cover:
   image: "cover.png"
 ---
 
-# Kubernetes Operators: A Practical Dive Using Go and Kustomize
-
 Kubernetes has revolutionized the way we deploy and manage containerized applications. However, as applications grow in complexity, managing their lifecycle becomes increasingly challenging. Enter **Kubernetes Operators**—a powerful pattern that extends Kubernetes' capabilities to manage complex applications seamlessly. In this article, we'll explore what Operators are, why they're beneficial, and how to build one using Go and Kustomize, drawing insights from the [kube-operator](https://gitlab.com/devsectim/kube-operator) project.
 
 ## What Is a Kubernetes Operator?
