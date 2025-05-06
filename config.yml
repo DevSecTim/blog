@@ -12,6 +12,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+pygmentsStyle: "dracula"
 mainsections: ["writings", "profile", "search"]
 
 minify:
@@ -50,8 +51,8 @@ outputs:
 
 params:
   author: Tim Jones
-  defaultTheme: auto
-  # disableThemeToggle: true
+  defaultTheme: dark
+  disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
@@ -64,6 +65,9 @@ params:
   ShowPageNums: true
   ShowToc: false
   # comments: false
+  assets:
+    css:
+      - "css/darcula.css"
 
   profileMode:
     enabled: true
