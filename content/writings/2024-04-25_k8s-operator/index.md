@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Kubernetes Operators - A Practical Dive Using Go and Kustomize
 date: 2024-04-25
 cover:
