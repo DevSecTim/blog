@@ -62,7 +62,7 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
-  ShowToc: true
+  ShowToc: false
   # comments: false
 
   profileMode:
@@ -77,8 +77,11 @@ params:
         url: writings
 
   socialIcons:
+    - name: gitlab
+      title: View Source on GitLab
+      url: "https://gitlab.com/devsectim"
     - name: github
-      title: View Source on Github
+      title: View Source on GitHub
       url: "https://github.com/devsectim"
     - name: LinkedIn
       title: Join discord community
@@ -86,8 +89,3 @@ params:
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/devsectim"
-
-  editPost:
-    URL: "https://github.com/devsectim/blog/tree/main/content/writings"
-    Text: "Suggest Changes"
-    appendFilePath: true
