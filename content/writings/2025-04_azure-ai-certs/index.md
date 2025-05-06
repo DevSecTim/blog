@@ -50,10 +50,8 @@ My background as a PhD and data scientist helped with grasping architecture patt
 ### Bonus: Simulate Exam Questions with AI
 The irony of practices for AI exams using AI itself is not lost on me, however, I would say it works very well and saves on the need to track down (and purchase in many cases) exam questions.  Instead I use the following prompt to have ChatGPT continually test me for my chosen exam:
 
-```
-I am an IT Consultant working as a Solution Architect in financial services institutions.  I am looking for factual and punchy study assistance towards relevant Azure certifications.  My background is in resaarch, development, cloud and R&D.
-
-I require question simulations for AI-102; I would like hard questions that are representative of the requested certification, one question at a time, with the result presented right away as correct or incorrect with a tick or a cross; along with an explanation of the answers.  Keep the questions coming automatically (don’t ask) with checkpoints every 10 questions to show progress and if I am tracking as exam ready.  Make sure the questions are a cross-section of all the subjects in the given exam.
-```
+ > *I am an IT Consultant working as a Solution Architect in financial services institutions.  I am looking for factual and punchy study assistance towards relevant Azure certifications.  My background is in resaarch, development, cloud and R&D.*
+ >
+ > *I require question simulations for AI-102; I would like hard questions that are representative of the requested certification, one question at a time, with the result presented right away as correct or incorrect with a tick or a cross; along with an explanation of the answers.  Keep the questions coming automatically (don’t ask) with checkpoints every 10 questions to show progress and if I am tracking as exam ready.  Make sure the questions are a cross-section of all the subjects in the given exam.*
 
 🧑‍🎓 Happy studying! 🧑‍🎓
