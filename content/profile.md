@@ -4,9 +4,9 @@ date: 2025-05-24
 draft: false
 ---
 
-Hi 👋, I’m **Tim Jones**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architecture role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud nerd at the core.
+Hi 👋, I’m **Tim**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architecture role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud nerd at the core.
 
-## ☀️ By Day...
+## ☀️ By Day
 
 - **Cloud & DevSecOps Strategy**  
   Helping organisations align tech goals with business objectives, and building security into their pipelines from day one.
@@ -20,7 +20,7 @@ Hi 👋, I’m **Tim Jones**, a Belfast-based Cloud, DevOps & DevSecOps Consulta
 - **Security-First Design**  
   Backed by CISSP and CCSP certifications, I build solutions that don’t just work, but work securely.
 
-## 🌖 By Night...
+## 🌖 By Night
 
 - **AI Research**  
   I can't help but be fascinated by the emerging world of generative and agentic AI, so I spend a surprising amount of time tinkering with it.
@@ -46,7 +46,7 @@ Hi 👋, I’m **Tim Jones**, a Belfast-based Cloud, DevOps & DevSecOps Consulta
   - Microsoft Azure Fundamentals: AZ-900
   - Certified Google Cloud Architect (expired)
 
-## 📧 Contact Me
+## ☕ Contact Me
 
 Whether you're working on a security-led cloud migration, trying to tame legacy systems, or just want to talk Go, Kubernetes, or the latest in DevSecOps—drop me a message. I’m always open to new ideas, technical challenges, or good coffee.
 
