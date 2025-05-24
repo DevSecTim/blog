@@ -4,7 +4,9 @@ date: 2025-05-24
 draft: false
 ---
 
-Hi 👋, I’m **Tim Jones**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architector role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud nerd at the core.
+<img src="/static/profile-cover.png" style="float: right; margin-left: 20px; width: 180px;">
+
+Hi 👋, I’m **Tim Jones**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architecture role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud nerd at the core.
 
 ## ☀️ By Day...
 
