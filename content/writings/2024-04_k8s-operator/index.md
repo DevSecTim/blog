@@ -98,7 +98,7 @@ The `kube-operator` project includes several essential files:
 
 ### Reconcile Function
 
-Due to the delcarative nature of Kubernetes, an operator's main reason to exist is to detect differences between the *actual* state of the cluster and the *desired* state, as defined in the manifests. As such the core logic loop is implemented as the `Reconcile` function in the controller.
+Due to the declarative nature of Kubernetes, an operator's main reason to exist is to detect differences between the *actual* state of the cluster and the *desired* state, as defined in the manifests. As such the core logic loop is implemented as the `Reconcile` function in the controller.
 
 Below is the extract from `controllers/whalesay_controller.go` to for the `Reconcile` function.  Its prime objective is to ensure a `Job` child resource is created for each `WhaleSay`, if it does not already exist:
 
@@ -149,7 +149,7 @@ func (r *WhaleSayReconciler) Reconcile(ctx context.Context, req ctrl.Request) (c
 ```
 
 ## Example Usage of the WhaleSay CRD
-With the operator running in the cluster, its recocile logic is tiggered any time a `WhaleSay` resource is created, updated or deleted.  Here is an example `WhaleSay` resource that can be deployed:
+With the operator running in the cluster, its reconcile logic is triggered any time a `WhaleSay` resource is created, updated or deleted.  Here is an example `WhaleSay` resource that can be deployed:
 
 ```yaml
 apiVersion: devsectim.io/v1alpha1
