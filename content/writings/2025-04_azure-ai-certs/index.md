@@ -4,7 +4,7 @@ title: "Microsoft Certified: AI Certs Critically Reviewed"
 date: 2025-04-01
 ---
 
-Earlier this year I passed both the **AI-900: Microsoft Azure AI Fundamentals** and the more advanced **AI-102: Microsoft Azure AI Engineer Associate** exams.  This track was compelling dur to both the topical nature of the subject matter and as stepping stones toward my longer term plan of attaining **AZ-305: Azure Solutions Architect Expert**.
+Earlier this year I passed both the **AI-900: Microsoft Azure AI Fundamentals** and the more advanced **AI-102: Microsoft Azure AI Engineer Associate** exams.  This track was compelling due to both the topical nature of the subject matter and as stepping stones toward my longer term plan of attaining **AZ-305: Azure Solutions Architect Expert**.
 
 I found them to be quite different in scope, depth, and the type of preparation required.  This short blog goes through some of these aspects and is intended as a primer to anyone else considering the certifications themselves.
 
