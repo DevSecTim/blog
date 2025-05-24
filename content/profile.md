@@ -4,7 +4,7 @@ date: 2025-05-24
 draft: false
 ---
 
-<img src="/static/profile-cover.png" style="float: right; margin-left: 20px; width: 180px;">
+<img src="profile-cover.png" style="float: left; margin-right: 20px; width: 180px;">
 
 Hi 👋, I’m **Tim Jones**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architecture role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud nerd at the core.
 
@@ -25,7 +25,7 @@ Hi 👋, I’m **Tim Jones**, a Belfast-based Cloud, DevOps & DevSecOps Consulta
 ## 🌖 By Night...
 
 - **AI Research**  
-  I can't help but be fascinated by the emergy world of agentic AI, so I spend a surprising amount of time tinking with how to apply it to use-cases such as cloud security.
+  I can't help but be fascinated by the emerging world of generative and agentic AI, so I spend a surprising amount of time tinkering with it.
 
 - **Crypto Trading**  
   Unlike traditional capital markets, the crypto markets are far more accessible to the average nerd like myself, and there also open 24/7... 😏
