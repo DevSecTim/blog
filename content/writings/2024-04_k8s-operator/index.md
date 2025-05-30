@@ -182,8 +182,6 @@ And here is the output in the case of the example resource manifest defined abov
                 ||     ||
 ```
 
----
-
 ## Getting Started: Step-by-Step Guide
 
 The full details for how to use the `kube-operator` as a starting point are in the `README.md` for the project, but broadly speaking, here are the key steps:

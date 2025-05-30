@@ -4,29 +4,32 @@ date: 2025-05-24
 draft: false
 ---
 
-Hi 👋, I’m **Tim**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architecture role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud nerd at the core.
+Hi 👋, I’m **Tim**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architecture role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud engineer at the core and do everything I can to stay hands-on.
 
 ## ☀️ By Day
 
 - **Cloud & DevSecOps Strategy**  
-  Helping organisations align tech goals with business objectives, and building security into their pipelines from day one.
+  My primary purpose is to help organisations align tech goals with business objectives, and building security into their pipelines and workflows from day one.
 
 - **Enterprise Architecture**  
-  Designing secure, scalable systems—often at the edge of legacy and modern stack integration.
-
-- **Kubernetes Native Engineering**  
-  From Anthos to Operator SDK, I’m at home in the K8s ecosystem and simply *love* Golang!
+  Designing secure, scalable systems—often at the edge of legacy and modern stack integration. I pride myself on my ability to truly understand the architectural culture and motivations of my clients.
 
 - **Security-First Design**  
-  Backed by CISSP and CCSP certifications, I build solutions that don’t just work, but work securely.
+  Backed by CISSP and CCSP certifications, I understand the importance of process and discipline when it comes to technology solutions and governance.
+
+- **Kubernetes Native Engineering**  
+  From ArgoCD to Operator SDK, I’m at home in the K8s ecosystem and simply *love* Golang!
 
 ## 🌖 By Night
 
-- **AI Research**  
-  I can't help but be fascinated by the emerging world of generative and agentic AI, so I spend a surprising amount of time tinkering with it.
+- **Investing & Capital Markets**  
+  I enjoy trying out on all things investment, stocks and shares, ISAs, ETFs and so on - I have been known to say "buy the dip and HODL" as if I know what I'm doing on occasion (I don't).
 
 - **Crypto Trading**  
-  Unlike traditional capital markets, the crypto markets are far more accessible to the average nerd like myself, and there also open 24/7... 😏
+  Unlike traditional capital markets, the crypto markets are far more accessible to the average finance nerd like myself, and there also open 24/7... 😏
+
+- **AI Research**  
+  Like many of us, I can't help but be fascinated by the emerging world of generative and agentic AI, so I spend a surprising amount of time tinkering with it.
 
 - **3D Printing**  
   Thats right, I really did print a printer... Twice.  Also useful for random brackets and toys for the kids(/me).
