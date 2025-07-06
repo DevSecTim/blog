@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Rhodes to Riches: Poolside Python and Trading Bots
+title: "Rhodes to Riches: Poolside Python and Trading Bots"
 date: 2025-06-07
 cover:
   image: "holiday.jpg"
