@@ -222,3 +222,5 @@ This setup allows you to observe the Operator managing the `WhaleSay` resources 
 ## Conclusion
 
 Kubernetes Operators empower developers to manage complex applications efficiently by extending Kubernetes' capabilities. By leveraging tools like Go, Kubebuilder, and Kustomize, you can build robust Operators that automate application lifecycle management. Whether you're managing stateful applications or custom workflows, Operators offer a scalable and maintainable solution.
+
+— Tim 🐋
