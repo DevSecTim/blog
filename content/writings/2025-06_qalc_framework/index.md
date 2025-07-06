@@ -3,7 +3,7 @@ draft: false
 title: "Rhodes to Riches: Poolside Python and Trading Bots"
 date: 2025-06-07
 cover:
-  image: "holiday.jpg"
+  image: "cover.png"
 ---
 
 As I write this, the Aegean sun glints off the water and my daughter cannonballs into the pool for the third time this morning. We're on a family holiday on the beautiful Greek island of Rhodes—an ideal mix of history, relaxation, and, somewhat unexpectedly, a productive coding sprint. Because yes, once again, I’ve found myself writing yet another algo-trading framework. I think this must be the third or fourth time I’ve gone down this rabbit hole.
