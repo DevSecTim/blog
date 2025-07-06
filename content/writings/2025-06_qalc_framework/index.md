@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Rhodes to Riches: Poolside Python and Trading Bots"
 date: 2025-04-01
 cover:
