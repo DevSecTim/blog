@@ -54,4 +54,4 @@ The irony of practices for AI exams using AI itself is not lost on me, however, 
  >
  > *I require question simulations for AI-102; I would like hard questions that are representative of the requested certification, one question at a time, with the result presented right away as correct or incorrect with a tick or a cross; along with an explanation of the answers.  Keep the questions coming automatically (don’t ask) with checkpoints every 10 questions to show progress and if I am tracking as exam ready.  Make sure the questions are a cross-section of all the subjects in the given exam.*
 
-🧑‍🎓 Happy studying! 🧑‍🎓
+— Tim 🏅
