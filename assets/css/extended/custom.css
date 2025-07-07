@@ -1,0 +1,13 @@
+.post-entry .entry-cover {
+    width: 220px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0;
+}
+
+.post-entry::after {
+    content: "";
+    display: table;
+    clear: both;
+}
