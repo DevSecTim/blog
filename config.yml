@@ -67,7 +67,7 @@ params:
   # comments: false
   assets:
     css:
-      - "css/darcula.css"
+      - "css/extended/custom.css"
 
   profileMode:
     enabled: true
