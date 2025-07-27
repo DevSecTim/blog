@@ -36,7 +36,7 @@ All of this is running via the `qalc` MCP server, exposed over `streamable-http`
 
 ## Testing with LM Studio (and My GPU Screaming)
 
-To test the system, I loaded the local server into [LM Studio](https://lmstudio.ai), connected to my custom tools, and ran a local LLM (Gemma 13B) right on my GPU. When the LLM started typing, my GPU's coil whine surged—it literally squealed in time with the response tokens. It was like hearing your machine think. Debugging suddenly became auditory.
+To test the system, I loaded the local server into [LM Studio](https://lmstudio.ai/home), connected to my custom tools, and ran a local LLM (Gemma 13B) right on my GPU. When the LLM started typing, my GPU's coil whine surged—it literally squealed in time with the response tokens. It was like hearing your machine think. Debugging suddenly became auditory.
 
 The ability to test toolchains in LM Studio has been a game-changer: no cloud latency, immediate feedback, and full control over the tool context. I could debug prompt formatting, data type mismatches, schema alignment issues, and tool routing all in one place. It made the abstract concrete—I wasn’t just writing code; I was conversing with it.
 
