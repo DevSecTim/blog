@@ -1,4 +1,10 @@
-# From Poolside Prototypes to Agentic Execution: My Algo-Trading Framework Evolves
+---
+draft: false
+title: "From Poolside Prototypes to Agentic Execution: My Algo-Trading Framework Evolves"
+date: 2025-07-27
+cover:
+  image: "cover.png"
+---
 
 Back in Rhodes, piña colada in hand and my feet dipped in the pool, I wrote about building yet another algo-trading framework. That post chronicled the shift from overengineered C++ and Go experiments to a more pragmatic, productive Python setup, powered by GitHub Copilot and AI pair-programming. It was lightweight, testable, and already backtesting a simple RSI trailing stop strategy via Alpaca's market data API.
 
