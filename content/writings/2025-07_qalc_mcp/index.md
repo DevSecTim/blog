@@ -14,7 +14,7 @@ Since then, that experimental repo has evolved into something far more structure
 
 Originally, I thought I needed to go full agent: I fired up LangGraph, sketched out a multi-node decision chain, and started wiring everything together. Along the way, I discovered LangSmith—a powerful tracing and observability platform for LLM agents—and that’s when I truly began to realise the potential of agentic tracing—not just for debugging, but for understanding decision paths and tool usage patterns in a way that felt almost forensic. It made debugging logic flows far easier, and I briefly flirted with the idea of fully orchestrating execution through LangGraph.
 
-![Alt text](langsmith.png)
+![LangSmith Tracing View](langsmith.png)
 
 But something didn’t sit right. I wasn’t building an LLM-powered user assistant; I was building *tools*. This wasn’t about creating a chatty co-pilot—it was about empowering a language model to compose functional queries and evaluations on demand.
 
@@ -42,7 +42,7 @@ The ability to test toolchains in LM Studio has been a game-changer: no cloud la
 
 I iterated rapidly, refining the tool outputs to be more LLM-consumable, clarifying parameter definitions, and experimenting with prompting strategies to guide the model. I even began crafting "prompt contracts" to serve as affordances for guiding LLM behavior—hints on how and when to use each tool.
 
-![Alt text](screencap.png)
+![Testing FastMCP 2.0 with LM Studio](screencap.png)
 
 ## What's Next?
 
