@@ -4,21 +4,21 @@ date: 2025-05-24
 draft: false
 ---
 
-Hi 👋, I’m **Tim**, a Belfast-based Cloud, DevOps & DevSecOps Consultant with a PhD in Computer Vision and a long-standing fascination with emerging technology.  I've been around the block in work at this point so I am in an architecture role, and although I love the big-picture perspective and solving real-world business problems, I'm also a proud engineer at the core and do everything I can to stay hands-on.
+Hi 👋, I’m **Tim**—a Belfast-based IT Consultant with a PhD in Computer Vision and a lifelong passion for emerging technology. These days, I work in architecture, where I thrive on solving real-world business problems and shaping the big picture. But at heart, I’m still an engineer: hands-on, curious, and always building something new.
 
 ## ☀️ By Day
 
-- **Cloud & DevSecOps Strategy**  
-  My primary purpose is to help organisations align tech goals with business objectives, and building security into their pipelines and workflows from day one.
-
-- **Enterprise Architecture**  
+- **Solution & Enterprise Architecture**  
   Designing secure, scalable systems—often at the edge of legacy and modern stack integration. I pride myself on my ability to truly understand the architectural culture and motivations of my clients.
+
+- **Cloud, DevOps & DevSecOps Strategy**  
+  My primary purpose is to help organisations align tech goals with business objectives, and building security into their pipelines and workflows from day one.
 
 - **Security-First Design**  
   Backed by CISSP and CCSP certifications, I understand the importance of process and discipline when it comes to technology solutions and governance.
 
-- **Kubernetes Native Engineering**  
-  From ArgoCD to Operator SDK, I’m at home in the K8s ecosystem and simply *love* Golang!
+- **AI Engineering**  
+  I build practical, secure AI systems that bridge the gap between DevOps, cloud, and real-world business needs.
 
 ## 🌖 By Night
 
@@ -28,8 +28,8 @@ Hi 👋, I’m **Tim**, a Belfast-based Cloud, DevOps & DevSecOps Consultant wit
 - **Crypto Trading**  
   Unlike traditional capital markets, the crypto markets are far more accessible to the average finance nerd like myself, and there also open 24/7... 😏
 
-- **AI Research**  
-  Like many of us, I can't help but be fascinated by the emerging world of generative and agentic AI, so I spend a surprising amount of time tinkering with it.
+- **Technology Research**  
+  I’m fascinated by how technologies like agentic AI are reshaping software, security, and business—and I’m always experimenting, learning, and sharing what I find.
 
 - **3D Printing**  
   Thats right, I really did print a printer... Twice.  Also useful for random brackets and toys for the kids(/me).
