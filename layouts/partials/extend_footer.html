@@ -1,0 +1,12 @@
+{{- /* Footer custom content area start */ -}}
+<script>
+    // Enable Medium Zoom for all images in the main content area
+    if (window.mediumZoom) {
+        window.mediumZoom('.single .content img:not([src*="/emoji/"]):not(.no-zoom)', {
+            margin: 24,
+            background: getComputedStyle(document.body).getPropertyValue('--theme') || '#fff',
+            scrollOffset: 0
+        });
+    }
+</script>
+{{- /* Footer custom content area end */ -}}
