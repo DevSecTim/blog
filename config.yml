@@ -51,8 +51,8 @@ outputs:
 
 params:
   author: Tim Jones
-  defaultTheme: dark
-  disableThemeToggle: true
+  defaultTheme: auto
+  disableThemeToggle: false
   ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
