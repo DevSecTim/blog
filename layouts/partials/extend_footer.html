@@ -2,7 +2,7 @@
 <script>
     // Enable Medium Zoom for all images in the main content area
     if (window.mediumZoom) {
-        window.mediumZoom('.single .content img:not([src*="/emoji/"]):not(.no-zoom)', {
+        window.mediumZoom('.post-single .post-content img:not([src*="/emoji/"]):not(.no-zoom)', {
             margin: 24,
             background: getComputedStyle(document.body).getPropertyValue('--theme') || '#fff',
             scrollOffset: 0
