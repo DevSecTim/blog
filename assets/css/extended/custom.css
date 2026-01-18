@@ -21,36 +21,3 @@ body {
     display: table;
     clear: both;
 }
-
-/* Cover image styles for individual article page */
-.post-single .entry-cover {
-    width: 220px !important;
-    height: auto !important;
-    float: left;
-    margin: 0 20px 20px 0 !important;
-    border-radius: 8px;
-}
-
-.post-single .entry-cover img {
-    width: 220px !important;
-    height: auto !important;
-    max-width: 220px !important;
-    object-fit: cover;
-    border-radius: 8px;
-}
-
-/* Ensure the post header and content allow text wrapping */
-.post-single .post-header {
-    overflow: visible;
-}
-
-.post-single .post-content {
-    overflow: visible;
-}
-
-/* Clear float after the post content */
-.post-single::after {
-    content: "";
-    display: table;
-    clear: both;
-}
