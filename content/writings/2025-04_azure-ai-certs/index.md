@@ -40,7 +40,7 @@ My background as a PhD and data scientist helped with grasping architecture patt
 
 * Low-level configuration, SDK and REST API details.
 * Precise syntax or steps for integrating services like Speech or Language Understanding.
-* Edge cases in deploying and optimizing AI models.
+* Edge cases in deploying and optimising AI models.
 
 ## Summary of Study Effort
 

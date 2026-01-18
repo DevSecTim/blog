@@ -30,7 +30,7 @@ This gives it a bit more nuance than basic RSI strategies. The trailing stop act
 
 Initially I'm using a free [Alpaca](https://alpaca.markets/) account for my backtesting, using its [Market Data API](https://alpaca.markets/sdks/python/market_data.html) - with a view to expanding to use its Trading API later for execution of actual trades. The platform provides access to historical candles that the framework runs a given strategy against and prints the results.
 
-Here are the results of a backtest of the RSI Trailing Stop strategy against the last 30 days of trading data on AAPL, divided into 15 minute candles, using 100,000 fake dollers:
+Here are the results of a backtest of the RSI Trailing Stop strategy against the last 30 days of trading data on AAPL, divided into 15 minute candles, using 100,000 fake dollars:
 
 ```
 2025-05-07 17:45 BUY @ 194.60, shares=513

@@ -24,7 +24,7 @@ The epiphany came when I saw how FastMCP lets you expose callable tools directly
 
 Both `get_historical_data` and `run_backtest` began as ordinary Python functions. The former retrieves OHLCV data using Alpaca's API, while the latter takes that data (as a pandas DataFrame) and runs a strategy—currently the RSI trailing stop or a basic buy-and-hold—returning JSON-serializable results for further analysis or chaining.
 
-To MCP-ify them, I wrapped each function into a `BaseTool` class (using LangChain’s tooling), added parameter schemas, and ensured input/output formats were LLM-friendly. The design prioritizes clarity and robustness—the LLM doesn’t need perfect formatting, but it does need clear interfaces and predictable behavior.
+To MCP-ify them, I wrapped each function into a `BaseTool` class (using LangChain’s tooling), added parameter schemas, and ensured input/output formats were LLM-friendly. The design prioritises clarity and robustness—the LLM doesn’t need perfect formatting, but it does need clear interfaces and predictable behaviour.
 
 Now, an LLM can:
 
@@ -40,7 +40,7 @@ To test the system, I loaded the local server into [LM Studio](https://lmstudio.
 
 The ability to test toolchains in LM Studio has been a game-changer: no cloud latency, immediate feedback, and full control over the tool context. I could debug prompt formatting, data type mismatches, schema alignment issues, and tool routing all in one place. It made the abstract concrete—I wasn’t just writing code; I was conversing with it.
 
-I iterated rapidly, refining the tool outputs to be more LLM-consumable, clarifying parameter definitions, and experimenting with prompting strategies to guide the model. I even began crafting "prompt contracts" to serve as affordances for guiding LLM behavior—hints on how and when to use each tool.
+I iterated rapidly, refining the tool outputs to be more LLM-consumable, clarifying parameter definitions, and experimenting with prompting strategies to guide the model. I even began crafting "prompt contracts" to serve as affordances for guiding LLM behaviour—hints on how and when to use each tool.
 
 ![Testing FastMCP 2.0 with LM Studio](screencap.png)
 
@@ -50,10 +50,10 @@ This is just the beginning. Future plans include:
 
 * Expanding the strategy library beyond RSI and buy-and-hold, including MACD crossovers, Bollinger Band systems, and multi-factor filters
 * Improving the LLM interface with better descriptions, argument examples, and dynamically generated prompt hints
-* Integrating hyperparameter optimization tools (LLM-driven or evolutionary)
+* Integrating hyperparameter optimisation tools (LLM-driven or evolutionary)
 * Experimenting with multi-step plans: "Get historical data, run 3 strategies, compare Sharpe ratios"
 * Allowing chained reasoning where an LLM can iterate on results: "That Sharpe ratio was low, try tweaking the RSI parameters"
-* Plugging in with A2A for distributed agent coordination, allowing cross-agent communication and specialization
+* Plugging in with A2A for distributed agent coordination, allowing cross-agent communication and specialisation
 
 The core idea remains: let the LLM think, let the tools do. The LLM doesn’t need to be the strategist or the executor; it just needs to know what tools are available and how to use them.
 
@@ -61,4 +61,4 @@ Until then, I’ll be refining prompts, writing more tools, and listening to my 
 
 ---
 
-> Want to try the framework or contribute? Check out [github.com/DevSecTim/qalc](https://github.com/DevSecTim/qalc) – or just open LM Studio, load your favorite model, and talk to your tools.
+> Want to try the framework or contribute? Check out [github.com/DevSecTim/qalc](https://github.com/DevSecTim/qalc) – or just open LM Studio, load your favourite model, and talk to your tools.
