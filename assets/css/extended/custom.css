@@ -23,32 +23,33 @@ body {
 }
 
 /* Cover image styles for individual article page */
-.post-single .post-header .post-cover {
+.post-single .entry-cover {
     width: 220px !important;
     height: auto !important;
     float: left;
-    margin: 0 20px 20px 0;
+    margin: 0 20px 20px 0 !important;
     border-radius: 8px;
 }
 
-.post-single .post-header .post-cover img {
+.post-single .entry-cover img {
     width: 220px !important;
     height: auto !important;
+    max-width: 220px !important;
     object-fit: cover;
     border-radius: 8px;
 }
 
-/* Ensure content wraps around the floated image */
-.post-single .post-content {
-    overflow: visible;
-}
-
+/* Ensure the post header and content allow text wrapping */
 .post-single .post-header {
     overflow: visible;
 }
 
+.post-single .post-content {
+    overflow: visible;
+}
+
 /* Clear float after the post content */
-.post-single .post-content::after {
+.post-single::after {
     content: "";
     display: table;
     clear: both;

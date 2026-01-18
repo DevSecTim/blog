@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Vibe Coding: From Sofa to Paywall in One Evening"
+title: "Vibe Coding: The Truth is Out There (And It Has a Paywall)"
 date: 2026-01-18
 cover:
   image: "cover.png"
@@ -84,9 +84,4 @@ And sometimes, what you're trying to accomplish is just seeing how far you can g
 
 ---
 
-<div style="display: flex; align-items: center; gap: 16px; margin: 24px 0;">
-  <img src="replit-logo.png" alt="Replit" width="32" height="32" style="flex-shrink: 0;">
-  <blockquote style="margin: 0; flex: 1;">
-    Want to check out Paint Vault? Visit <a href="https://paint-vault.replit.app/">paint-vault.replit.app</a> and see vibe coding in action. Or better yet, fire up Replit and see what you can build in your next TV break.
-  </blockquote>
-</div>
+> Want to check out Paint Vault? Visit [paint-vault.replit.app](https://paint-vault.replit.app/) and see vibe coding in action. Or better yet, fire up Replit and see what you can build in your next TV break.
