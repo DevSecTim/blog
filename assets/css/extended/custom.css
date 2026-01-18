@@ -3,14 +3,11 @@
     --theme: dark;
 }
 
-[data-theme="light"] {
-    display: none !important;
-}
-
 body {
     color-scheme: dark;
 }
 
+/* Cover image styles for listings page */
 .post-entry .entry-cover {
     width: 220px;
     height: auto;
@@ -20,6 +17,38 @@ body {
 }
 
 .post-entry::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Cover image styles for individual article page */
+.post-single .post-header .post-cover {
+    width: 220px !important;
+    height: auto !important;
+    float: left;
+    margin: 0 20px 20px 0;
+    border-radius: 8px;
+}
+
+.post-single .post-header .post-cover img {
+    width: 220px !important;
+    height: auto !important;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+/* Ensure content wraps around the floated image */
+.post-single .post-content {
+    overflow: visible;
+}
+
+.post-single .post-header {
+    overflow: visible;
+}
+
+/* Clear float after the post content */
+.post-single .post-content::after {
     content: "";
     display: table;
     clear: both;
