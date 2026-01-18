@@ -79,6 +79,8 @@ params:
     buttons:
       - name: Writings
         url: writings
+      - name: Profile
+        url: profile
 
   socialIcons:
     - name: gitlab
