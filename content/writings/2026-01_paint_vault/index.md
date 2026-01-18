@@ -6,7 +6,7 @@ cover:
   image: "cover.png"
 ---
 
-Last night, I was sprawled on the sofa watching some low-quality UFO's-are-real show on Prime when an idea hit me: what if I built a simple app to experiment with paywalls and tiered subscriptions? Not because I had a grand business plan, but because I was curious how long it would take to spin up something functional from absolute zero. Three hours later, Paint Vault was live on Replit—a minimalist digital art gallery with Stripe-powered subscriptions and Clerk authentication.
+Last night, I was sprawled on the sofa watching some low-quality UFO's-are-real show on Prime when an idea hit me: what if I built a simple app to experiment with paywalls and tiered subscriptions? Not because I had a grand business plan, but because I was curious how long it would take to spin up something functional from absolute zero. Three hours later, Paint Vault was live on Replit—a minimalist hobbyist tool with Stripe-powered subscriptions and Clerk authentication.
 
 This wasn't careful, spec-driven development. This was pure vibe coding: intuitive, experimental, and surprisingly effective.
 
@@ -84,4 +84,9 @@ And sometimes, what you're trying to accomplish is just seeing how far you can g
 
 ---
 
-> Want to check out Paint Vault? Visit [paint-vault.replit.app](https://paint-vault.replit.app/) and see vibe coding in action. Or better yet, fire up Replit and see what you can build in your next TV break.
+<div style="display: flex; align-items: center; gap: 16px; margin: 24px 0;">
+  <img src="replit-logo.png" alt="Replit" width="32" height="32" style="flex-shrink: 0;">
+  <blockquote style="margin: 0; flex: 1;">
+    Want to check out Paint Vault? Visit <a href="https://paint-vault.replit.app/">paint-vault.replit.app</a> and see vibe coding in action. Or better yet, fire up Replit and see what you can build in your next TV break.
+  </blockquote>
+</div>
