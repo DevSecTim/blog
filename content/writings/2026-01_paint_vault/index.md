@@ -12,7 +12,7 @@ This wasn't careful, spec-driven development. This was pure vibe coding: intuiti
 
 ## The Experiment: Speed Over Perfection
 
-The goal was simple: build something that could validate a paywall concept while the TV droned in the background. I wanted to test how quickly modern tools could take me from idea to deployed app, and Paint Vault became the perfect guinea pig—a digital art showcase where users could upload paintings, browse galleries, and unlock premium features through subscriptions.
+The goal was simple: build something that could validate a paywall concept while the TV droned in the background. I wanted to test how quickly modern tools could take me from idea to deployed app, and Paint Vault became the perfect guinea pig—an inventory management tool for wargamer hobbyists to manage their large collection of paints, and unlock premium features through subscriptions.
 
 The tech stack practically (and in some cases literally) chose itself:
 - **Replit** for hosting and development environment
@@ -45,16 +45,16 @@ Drop in their React components, configure a few settings, and suddenly you have 
 
 ## The Vibe Coding Paradigm
 
-This project crystallised something I've been thinking about: we're seeing three distinct approaches to software development emerge, each with their own strengths:
+This project crystallised something I've been thinking about: we're seeing three distinct approaches to AI-enabled software development emerge, each with their own strengths:
 
-### 1. Assisted IDEs (Cursor/Kiro Style)
-These tools augment traditional development with AI pair programming. You still write code, make architectural decisions, and manage complexity—but with an intelligent assistant helping with syntax, suggesting improvements, and catching errors. It's enhanced craftsmanship.
+### 1. Assisted IDEs (Cursor, GitHub CoPilot)
+These tools augment traditional development with AI pair programming. You still write code, make architectural decisions, and manage complexity—but with an intelligent assistant helping with syntax, suggesting improvements, and catching errors. It's enhanced craftsmanship and most experienced software engineers will start their "AI transition" here.
 
 ### 2. Spec-Driven Development (Kiro + Traycer)
-This approach emphasises formal specifications, property-based testing, and systematic design before implementation. It's methodical, rigorous, and produces robust software—but requires upfront investment in planning and design.
+This approach emphasises formal specifications, property-based testing, and systematic design before implementation. It's methodical, rigorous, and produces robust software—but requires upfront investment in planning and design.  This method can potentially be a bridge into modernising development practices in domains that are traditionally conservative and require a high degree of oversight, with brownfield code bases.
 
 ### 3. Hands-Off Platforms (Replit Style)
-These platforms flip the paradigm entirely. Instead of giving you better tools to write code, they abstract away the need to think about infrastructure, deployment, and configuration. You focus purely on business logic while the platform handles everything else.
+These platforms flip the paradigm entirely. Instead of giving you better tools to write code, they abstract away the need to think about infrastructure, deployment, and configuration. You focus purely on business logic while the platform handles everything else - despite the transformative nature of using these tools, they will be a hard sell in some businesses that will be uncomfortable with the level of trust in the platform required.
 
 ## The Future is Pluralistic
 
