@@ -1,3 +1,16 @@
+/* Force dark mode */
+:root {
+    --theme: dark;
+}
+
+[data-theme="light"] {
+    display: none !important;
+}
+
+body {
+    color-scheme: dark;
+}
+
 .post-entry .entry-cover {
     width: 220px;
     height: auto;
