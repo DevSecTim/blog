@@ -6,7 +6,7 @@ cover:
   image: "cover.png"
 ---
 
-Last Tuesday night, I was sprawled on the sofa watching some low-waulity UFO-are-real show on Prime when an idea hit me: what if I built a simple app to experiment with paywalls and tiered subscriptions? Not because I had a grand business plan, but because I was curious how long it would take to spin up something functional from absolute zero. Three hours later, Paint Vault was live on Replit—a minimalist digital art gallery with Stripe-powered subscriptions and Clerk authentication.
+Last night, I was sprawled on the sofa watching some low-quality UFO's-are-real show on Prime when an idea hit me: what if I built a simple app to experiment with paywalls and tiered subscriptions? Not because I had a grand business plan, but because I was curious how long it would take to spin up something functional from absolute zero. Three hours later, Paint Vault was live on Replit—a minimalist digital art gallery with Stripe-powered subscriptions and Clerk authentication.
 
 This wasn't careful, spec-driven development. This was pure vibe coding: intuitive, experimental, and surprisingly effective.
 
@@ -14,7 +14,7 @@ This wasn't careful, spec-driven development. This was pure vibe coding: intuiti
 
 The goal was simple: build something that could validate a paywall concept while the TV droned in the background. I wanted to test how quickly modern tools could take me from idea to deployed app, and Paint Vault became the perfect guinea pig—a digital art showcase where users could upload paintings, browse galleries, and unlock premium features through subscriptions.
 
-The tech stack practically chose itself:
+The tech stack practically (and in some cases literally) chose itself:
 - **Replit** for hosting and development environment
 - **Stripe** for payment processing and subscription management  
 - **Clerk** for user authentication and session handling
