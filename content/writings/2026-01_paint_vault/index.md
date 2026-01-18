@@ -33,7 +33,7 @@ The "on rails" nature that might frustrate experienced developers becomes a supe
 
 ## Stripe Integration: Surprisingly Smooth
 
-Getting Stripe working was easier than expected. Their new embedded checkout flow handled most of the complexity—I just needed to create products, define pricing tiers, and wire up a few webhooks. The subscription logic that I thought would take hours ended up being maybe 30 minutes of actual coding.
+Getting Stripe working was easier than expected. Their new embedded checkout flow handled most of the complexity—I just needed to create products, define pricing tiers, and wire up a few webhooks. The subscription logic that I thought would take hours ended up being a single prompt.
 
 The real magic happened when I tested the first payment flow. Seeing a real credit card transaction (even in test mode) complete successfully felt like crossing some invisible threshold from "toy project" to "actual thing that could make money." That psychological shift is powerful when you're experimenting with business models.
 
