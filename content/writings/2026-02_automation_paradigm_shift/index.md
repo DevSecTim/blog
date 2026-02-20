@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "The Paradigm Shift: Automation Beyond Code"
 date: 2026-02-20
 cover:
