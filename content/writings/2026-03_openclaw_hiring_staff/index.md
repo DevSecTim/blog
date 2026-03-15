@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "OpenClaw Feels Less Like a Tool and More Like Hiring Staff"
 date: 2026-03-15
 cover:
