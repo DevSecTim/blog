@@ -12,13 +12,13 @@ Hi 👋, I’m **Tim**—a Belfast-based IT Consultant with a PhD in Computer Vi
   Designing secure, scalable systems—often at the edge of legacy and modern stack integration. I pride myself on my ability to truly understand the architectural culture and motivations of my clients.
 
 - **Cloud, DevOps & DevSecOps Strategy**  
-  My primary purpose is to help organisations align tech goals with business objectives, and building security into their pipelines and workflows from day one.
+  I help organisations align tech goals with business objectives, and building security into their pipelines and workflows from day one.
+
+- **AI Engineering & Strategy**  
+  I drive adoption of AI enabled SDLC best practices across engineering teams and also design practical AI solutions that target real-world business needs.
 
 - **Security-First Design**  
   Backed by CISSP and CCSP certifications, I understand the importance of process and discipline when it comes to technology solutions and governance.
-
-- **AI Engineering**  
-  I build practical, secure AI systems that bridge the gap between DevOps, cloud, and real-world business needs.
 
 ## 🌖 By Night
 
@@ -43,16 +43,18 @@ Hi 👋, I’m **Tim**—a Belfast-based IT Consultant with a PhD in Computer Vi
   - [Certified Informations Systems Security Professional (CISSP)](https://www.credly.com/badges/2b8fd045-98a7-45d8-949e-a6303687a94e)
   - [Certified Cloud Security Professional (CCSP)](https://www.credly.com/badges/9e7ba52a-7782-4cf4-bb97-9b24ee5ef38e)
 - **AI Certifications**
+  - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/dqitc5bh4te6)
   - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-gb/users/tgjones/credentials/a9cb34cb9d663651)
   - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/tgjones/37C5EAE9204FF59F?sharingId=E026D058320A697E)
 - **DevOps Certifications**  
   - [GitHub Actions](https://www.credly.com/badges/faa8d79f-5105-49ff-a633-e972c6ee1751)
+  - [HashiCorp Certified: Terraform Certified](https://www.credly.com/badges/1be091ab-64c3-457f-ad91-6df6e45f2daf)
   - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-gb/users/tgjones/credentials/9535cfb2cd88f708)
 
 ## ☕ Contact Me
 
 Whether you're working on a security-led cloud migration, trying to tame legacy systems, or just want to talk Go, Kubernetes, or the latest in AI—drop me a message.
 
-📧 [me@devsectim.pro](mailto:me@devsectim.pro)  
-🔗 [linkedin.com/in/devsectim](https://linkedin.com/in/devsectim)  
+📧 [me@devsectim.pro](mailto:blog+me@devsectim.pro)
+🔗 [linkedin.com/in/devsectim](https://linkedin.com/in/devsectim)
 📍 Based near Belfast, Northern Ireland, United Kingdom.
