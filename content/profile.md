@@ -48,7 +48,7 @@ Hi 👋, I’m **Tim**—a Belfast-based IT Consultant with a PhD in Computer Vi
   - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/tgjones/37C5EAE9204FF59F?sharingId=E026D058320A697E)
 - **DevOps Certifications**  
   - [GitHub Actions](https://www.credly.com/badges/faa8d79f-5105-49ff-a633-e972c6ee1751)
-  - [HashiCorp Certified: Terraform Certified](https://www.credly.com/badges/1be091ab-64c3-457f-ad91-6df6e45f2daf)
+  - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/1be091ab-64c3-457f-ad91-6df6e45f2daf)
   - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-gb/users/tgjones/credentials/9535cfb2cd88f708)
 
 ## ☕ Contact Me
