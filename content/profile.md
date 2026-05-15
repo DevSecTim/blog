@@ -43,8 +43,8 @@ Hi 👋, I’m **Tim**—a Belfast-based IT Consultant with a PhD in Computer Vi
   - [Certified Informations Systems Security Professional (CISSP)](https://www.credly.com/badges/2b8fd045-98a7-45d8-949e-a6303687a94e)
   - [Certified Cloud Security Professional (CCSP)](https://www.credly.com/badges/9e7ba52a-7782-4cf4-bb97-9b24ee5ef38e)
 - **AI Certifications**
-  - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/dqitc5bh4te6)
   - [GitHub Copilot](https://learn.microsoft.com/en-gb/users/tgjones/credentials/667917c352e2b1f)
+  - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/dqitc5bh4te6)
   - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-gb/users/tgjones/credentials/a9cb34cb9d663651)
   - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/tgjones/37C5EAE9204FF59F?sharingId=E026D058320A697E)
 - **DevOps Certifications**  
