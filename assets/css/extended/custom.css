@@ -76,3 +76,9 @@ body, body.list, .dark.list {
     width: 120px;
     margin-right: 15px;
 }
+
+/* Make profile picture a circle */
+.profile_inner img {
+    border-radius: 50%;
+    object-fit: cover;
+}
