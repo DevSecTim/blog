@@ -92,6 +92,3 @@ params:
     - name: LinkedIn
       title: Join discord community
       url: "https://www.linkedin.com/in/devsectim"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/devsectim"
