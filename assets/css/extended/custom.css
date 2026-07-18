@@ -77,8 +77,10 @@ body, body.list, .dark.list {
     margin-right: 15px;
 }
 
-/* Make profile picture a circle */
-.profile_inner img {
-    border-radius: 50%;
-    object-fit: cover;
+
+/* Prevent profile picture from shrinking on mobile */
+@media screen and (max-width: 768px) {
+    .profile img {
+        transform: none !important;
+    }
 }
