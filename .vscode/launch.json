@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Site",
+      "url": "http://127.0.0.1:1313",
+      "webRoot": "${workspaceFolder}/public",
+      "preLaunchTask": "Start Hugo Server"
+    }
+  ]
+}
