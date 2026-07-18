@@ -21,3 +21,53 @@ body {
     display: table;
     clear: both;
 }
+
+/* Side-by-side homepage layout */
+.homepage-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center; /* Center profile on narrow screens */
+}
+
+@media (max-width: 899px) {
+    .homepage-posts {
+        display: none; /* Hide previews on narrow screens */
+    }
+}
+
+@media (min-width: 900px) {
+    .homepage-layout {
+        flex-direction: row;
+        align-items: flex-start; /* Align to top on desktop */
+    }
+    .homepage-profile {
+        flex: 0 0 35%;
+        position: sticky;
+        top: 30px;
+    }
+    .homepage-profile .profile {
+        margin: 0; /* Remove auto-centering on desktop */
+        min-height: auto;
+        padding-top: 15px;
+    }
+    .homepage-posts {
+        flex: 0 0 60%;
+    }
+}
+
+/* Shrink post entries inside the homepage posts list */
+.homepage-posts .post-entry {
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.homepage-posts .post-entry .entry-header h2 {
+    font-size: 1.25rem;
+}
+.homepage-posts .post-entry .entry-content {
+    font-size: 0.9rem;
+}
+.homepage-posts .post-entry .entry-cover {
+    width: 120px;
+    margin-right: 15px;
+}

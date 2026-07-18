@@ -55,7 +55,7 @@ params:
   disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: true
-  # disableSpecial1stPost: true
+  disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
@@ -78,9 +78,9 @@ params:
     imageHeight: 140
     buttons:
       - name: Writings
-        url: writings
+        url: /writings/
       - name: Profile
-        url: profile
+        url: /profile/
 
   socialIcons:
     - name: gitlab
