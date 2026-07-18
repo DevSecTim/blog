@@ -3,8 +3,10 @@
     --theme: dark;
 }
 
-body {
+body, body.list, .dark.list {
     color-scheme: dark;
+    background: linear-gradient(135deg, rgb(33, 35, 40) 0%, rgb(10, 11, 14) 100%) !important;
+    background-attachment: fixed !important;
 }
 
 /* Cover image styles for listings page */
@@ -53,6 +55,9 @@ body {
     }
     .homepage-posts {
         flex: 0 0 60%;
+    }
+    .homepage-profile .profile .buttons {
+        display: none; /* Hide buttons on desktop since previews are visible */
     }
 }
 
