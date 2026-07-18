@@ -83,9 +83,6 @@ params:
         url: /profile/
 
   socialIcons:
-    - name: gitlab
-      title: View Source on GitLab
-      url: "https://gitlab.com/devsectim"
     - name: github
       title: View Source on GitHub
       url: "https://github.com/devsectim"
