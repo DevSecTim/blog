@@ -1,6 +1,32 @@
 /* Force dark mode */
 :root {
     --theme: dark;
+    color-scheme: dark;
+}
+
+/* Custom Scrollbar Styles */
+html {
+    scrollbar-color: rgb(60, 62, 68) rgb(15, 16, 20);
+    scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(15, 16, 20);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(60, 62, 68);
+    border-radius: 5px;
+    border: 2px solid rgb(15, 16, 20);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(80, 82, 90);
 }
 
 body, body.list, .dark.list {

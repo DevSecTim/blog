@@ -59,6 +59,6 @@ At heart though, I’m an engineer and always will be: hands-on, curious, and al
 
 Whether you're working on a security-led cloud migration, trying to tame legacy systems, or just want to talk Go, Kubernetes, or the latest in AI—drop me a message.
 
-📧 [me@devsectim.pro](mailto:blog+me@devsectim.pro)
-🔗 [linkedin.com/in/devsectim](https://linkedin.com/in/devsectim)
+📧 [me@devsectim.pro](mailto:blog+me@devsectim.pro)  
+🔗 [linkedin.com/in/devsectim](https://linkedin.com/in/devsectim)  
 📍 Based near Belfast, Northern Ireland, United Kingdom.
