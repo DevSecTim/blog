@@ -41,15 +41,15 @@ At heart though, I’m an engineer and always will be: hands-on, curious, and al
 - **PhD in Computer Vision**
   - Doctorate awarded in 2014 by [Queens University Belfast](https://www.qub.ac.uk/)
   - Applied computer vision techniques to the domain of *forensic crime-scene investigation*
-- **Security Certifications**  
-  - [Certified Informations Systems Security Professional (CISSP)](https://www.credly.com/badges/2b8fd045-98a7-45d8-949e-a6303687a94e)
-  - [Certified Cloud Security Professional (CCSP)](https://www.credly.com/badges/9e7ba52a-7782-4cf4-bb97-9b24ee5ef38e)
 - **AI Certifications**
   - [Anthropic Claude Certified Architect - Foundations (CCAR-F)](https://www.credly.com/badges/cf667354-c62d-459d-bc52-68af3935412e/public_url)
   - [GitHub Copilot](https://learn.microsoft.com/en-gb/users/tgjones/credentials/667917c352e2b1f)
   - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/dqitc5bh4te6)
   - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-gb/users/tgjones/credentials/a9cb34cb9d663651)
   - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/tgjones/37C5EAE9204FF59F?sharingId=E026D058320A697E)
+- **Security Certifications**  
+  - [Certified Informations Systems Security Professional (CISSP)](https://www.credly.com/badges/2b8fd045-98a7-45d8-949e-a6303687a94e)
+  - [Certified Cloud Security Professional (CCSP)](https://www.credly.com/badges/9e7ba52a-7782-4cf4-bb97-9b24ee5ef38e)
 - **DevOps Certifications**  
   - [GitHub Actions](https://www.credly.com/badges/faa8d79f-5105-49ff-a633-e972c6ee1751)
   - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/1be091ab-64c3-457f-ad91-6df6e45f2daf)
