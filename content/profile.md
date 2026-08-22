@@ -43,6 +43,7 @@ At heart though, I’m an engineer and always will be: hands-on, curious, and al
   - Applied computer vision techniques to the domain of *forensic crime-scene investigation*
 - **AI Certifications**
   - [Anthropic Claude Certified Architect - Foundations (CCAR-F)](https://www.credly.com/badges/cf667354-c62d-459d-bc52-68af3935412e/public_url)
+  - [AWS Certified AI Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/c6590fe18d6848ada2bbec0f699fc236)
   - [GitHub Copilot](https://learn.microsoft.com/en-gb/users/tgjones/credentials/667917c352e2b1f)
   - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/dqitc5bh4te6)
   - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-gb/users/tgjones/credentials/a9cb34cb9d663651)
