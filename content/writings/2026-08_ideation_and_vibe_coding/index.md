@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "How vibe-coding has liberated me from my own OCD"
+title: "How Vibe Coding Cured My Engineering Perfectionism"
 date: 2026-08-30
 cover:
   image: "cover.png"
