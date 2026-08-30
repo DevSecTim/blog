@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "How I Vibe Code: From Idea to Reality with Multi-Agent Workflows"
+title: "How vibe-coding has liberated me from my own OCD"
 date: 2026-08-30
 cover:
   image: "cover.png"
