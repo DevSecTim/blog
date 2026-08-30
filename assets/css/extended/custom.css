@@ -110,3 +110,25 @@ body, body.list, .dark.list {
         transform: none !important;
     }
 }
+
+/* Enhanced Callout / Info Box */
+.post-content blockquote {
+    margin: 28px 0;
+    padding: 16px 20px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-left: 4px solid rgb(120, 140, 240);
+    border-radius: 8px;
+}
+.post-content blockquote p {
+    margin-bottom: 0.75rem;
+}
+.post-content blockquote p:last-child {
+    margin-bottom: 0;
+}
+.post-content blockquote h2,
+.post-content blockquote h3,
+.post-content blockquote h4 {
+    margin-top: 0;
+    margin-bottom: 12px;
+}
