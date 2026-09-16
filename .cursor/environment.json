@@ -1,6 +1,7 @@
 {
   "name": "DevSecTim.pro (Hugo)",
   "install": "./.cursor/install.sh",
+  "start": "./.cursor/install.sh",
   "terminals": [
     {
       "name": "hugo-server",
