@@ -1,0 +1,13 @@
+{
+  "name": "DevSecTim.pro (Hugo)",
+  "install": "./.cursor/install.sh",
+  "terminals": [
+    {
+      "name": "hugo-server",
+      "command": "hugo server --bind 0.0.0.0 --port 1313 --baseURL http://localhost"
+    }
+  ],
+  "ports": [
+    1313
+  ]
+}
