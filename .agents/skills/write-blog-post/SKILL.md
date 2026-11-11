@@ -32,6 +32,7 @@ This skill guides you through the process of creating a new blog post in this Hu
 
 4.  **Write the Content**:
     Draft the markdown body of the post below the front matter, based on the user's instructions. Use concise headings and keep the style consistent with other posts.
+    Aim for approximately **1,550 words** for a standard article, with a practical target range of **1,400–1,700 words**. Treat this as a default based on the repository's preferred article length, not a hard limit: use a shorter or longer article when the subject genuinely requires it.
 
 5.  **Generate and Handle Cover Image (Mandatory)**:
     Every blog post requires a cover image (`cover.png` or `cover.jpg`) referenced in the front matter `cover.image`.
@@ -45,3 +46,6 @@ This skill guides you through the process of creating a new blog post in this Hu
     hugo server -D
     ```
     (The `-D` flag is required to render draft posts). Navigate to `http://localhost:1313` to preview the site.
+
+7.  **Publish (only when explicitly requested)**:
+    Publishing is a repository and deployment action, not just a front matter change. Set `draft: false`, run `hugo --minify`, inspect the rendered result, and check `git status` for unrelated changes. Stage only the article bundle and any directly related changes, then create a focused commit such as `blog: publish <slug>`. Push the current branch to its configured remote with `git push`. Report the commit and push result; do not describe the article as published until the push succeeds.
